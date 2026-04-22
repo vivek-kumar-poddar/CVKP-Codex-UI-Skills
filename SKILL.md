@@ -1,3 +1,8 @@
+---
+name: cvkp-ui-design-system
+description: Opinionated frontend UI design system for HTML, CSS, and JavaScript with strict design tokens, prefix-based class naming, theme support, buttons, tabs, forms, tables, charts, and responsive rules. Use when Codex needs to build or restyle interfaces to this specific CVKP design language and should follow its `{prefix}-` naming and token conventions.
+---
+
 # Codex UI Design System — Skill Guide
 
 > **For AI Agents:** This document defines a strict, opinionated design system. Follow every rule precisely. When in doubt, **ask the user for the brand/product prefix** before writing a single line of code. Do not invent prefixes. Do not deviate from the design tokens. Do not use hardcoded color values anywhere — always use CSS variables.
